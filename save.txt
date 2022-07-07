@@ -1,0 +1,2 @@
+{'name': 'na2', 'count': 5, 'brand': 'br2', 'size': 30, 'price': 1300}
+{'name': 'na3', 'count': 7, 'brand': 'br1', 'size': 30, 'price': 1300}
